@@ -13,4 +13,4 @@
 ; }
 
 
-(def question-2 0)
+(def question-2 1)
