@@ -7,4 +7,4 @@
 ;   let question_1 = 10;
 ; }
 
-(def question-1 0)
+(def question-1 10)
